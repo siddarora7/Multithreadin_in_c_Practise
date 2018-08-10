@@ -2,11 +2,12 @@
 * @Author: Siddhartha Arora
 * @Date:   2018-08-09 19:43:24
 * @Last Modified by:   Siddhartha Arora
-* @Last Modified time: 2018-08-09 20:57:25
+* @Last Modified time: 2018-08-09 21:04:20
 */
 
 
-//Trying Multhreading in c
+/*Trying Multhreading in c by creating a function sum which adds numbers till a user defined limit 
+  and simentaneously asking the user to input 10 numbers */
 
 #include <stdio.h>
 #include <stdlib.h>
