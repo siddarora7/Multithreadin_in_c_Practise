@@ -1,4 +1,4 @@
-# Multithreadin_in_c_Practise
+# Multithreading_in_c_Practise
 
 ##Most of this code is practise for multhreading in c using pthread library.
 
